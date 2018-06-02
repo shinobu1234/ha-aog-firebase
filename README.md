@@ -1,4 +1,9 @@
 # ha-aog-firebase
+
+shinobu1234
+Firebase Beta からの変更点に対応、現行SDKでの動作が可能なように変更。
+各箇所のバグも修正。
+
 **いろいろいじり中**
 
 無料FirebaseでActions on Googleスマートホーム連携
